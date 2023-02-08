@@ -1,0 +1,47 @@
+{
+  "extensionName": {
+    "message": "Search with",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Demonstrates the menus API.",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemAudible": {
+    "message": "Audible '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  } ,
+
+  "menuItemStackoverflow": {
+    "message": "Stackoverflow '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  } ,
+
+  "menuItemGithub": {
+    "message": "Github '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  } ,
+
+  "menuItemGoodreads": {
+    "message": "Goodread '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  },
+  "menuItemHockernews": {
+    "message": "HN '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  },
+  "menuItemGoogle": {
+    "message": "Google '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  },
+  "menuItemWiki": {
+    "message": "Wiki '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  },
+  "menuItemYoutube": {
+    "message": "Youtube '%s'",
+    "description": "Title of context menu item that opens a sidebar."
+  }
+}
